@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 1
+date: 2021-10-01
+img: 01-weddings.jpg
+alt: Wedding Bouquet
+---
