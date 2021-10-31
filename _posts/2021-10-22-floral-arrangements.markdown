@@ -5,7 +5,7 @@ date: 2021-10-22
 img: floral-arrangements.jpg
 alt: floral arrangement
 project-date: September 2020
-client: Start Bootstrap
+client: Ai Majima
 category: Floral Arrangement
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Custom floral arrangements for every occasion, big and small.
 ---
