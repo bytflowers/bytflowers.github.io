@@ -34,29 +34,21 @@ color:
 footer:
   copyright: By T Flowers
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Follow my creations
+  business_info: Business Info
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://www.instagram.com/by_t_flowers/
 
 # Postal address (add as many lines as necessary)
 address:
   - line: 12 Lowther Terrace
-  - line: Nollamara, WA 6061
+  - line: Nollamara, Western Australia, 6061
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Business Info
+business_info: 'ABN: 68 869 530 935'
 
 # Build settings
 markdown: kramdown
