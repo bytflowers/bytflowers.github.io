@@ -1,6 +1,11 @@
 Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
 =========================
 
+Running locally:
+```shell
+docker run --rm -p 4000:4000 -v $PWD:/srv/jekyll jekyll/jekyll jekyll serve --watch
+```
+
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
 ## How to use

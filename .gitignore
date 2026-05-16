@@ -10,3 +10,6 @@ vendor/
 working_images/
 
 Gemfile.lock
+
+# IntelliJ Junk
+.idea/
